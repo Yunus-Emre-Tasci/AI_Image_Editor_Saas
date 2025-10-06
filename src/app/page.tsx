@@ -95,7 +95,7 @@ export default function HomePage() {
               <Sparkles className="h-5 w-5 text-white" />
               </div>
               <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-xl font-bold text-transparent">
-                AI Image Editor
+              AI Image Editor
               </span>
             </div>
 
