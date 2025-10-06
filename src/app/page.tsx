@@ -92,7 +92,7 @@ export default function HomePage() {
           <div className="flex h-16 items-center justify-between">
             <div className="flex items-center gap-2">
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-r from-blue-500 to-purple-600 shadow-lg">
-                <Sparkles className="h-5 w-5 text-white" />
+              <Sparkles className="h-5 w-5 text-white" />
               </div>
               <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-xl font-bold text-transparent">
                 AI Image Editor
