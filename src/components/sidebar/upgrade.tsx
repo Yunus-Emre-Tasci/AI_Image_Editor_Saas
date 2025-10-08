@@ -8,7 +8,7 @@ export default function Upgrade() {
   const upgrade = async () => {
     await authClient.checkout({
       products: [
-        "43585d8b-a849-485c-a359-7773d185d8ef",
+        "adda6cf0-a040-4c67-ac3e-43c7e6158d07",
         "ba9b9094-3f22-4933-86f2-7d74cdcfbf52",
         "2c7735ec-5758-4c6a-8907-da76dced50b6",
       ],
